@@ -2,6 +2,8 @@
 
 Interested in building AI agent harnesses and applications that actually work in the real world.
 
+Currently looking for SDE / AI Engineer roles — let's connect!
+
 ## What I'm working on
 
 - **[OpenTypeless](https://github.com/kuleka/OpenTypeless)** — A Swift experiment in input methods

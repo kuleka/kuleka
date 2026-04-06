@@ -12,12 +12,25 @@ AI agents, LLM tooling, and figuring out how to make them actually useful in dai
 
 ### Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+**Languages**
+
+![Languages](https://skillicons.dev/icons?i=java,py,ts,js,swift,kotlin&theme=dark)
+
+**Frameworks & Runtime**
+
+![Frameworks](https://skillicons.dev/icons?i=spring,react,vite,nodejs&theme=dark)
+
+**Data & Messaging**
+
+![Data](https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka,supabase&theme=dark)
+
+**DevOps & Monitoring**
+
+![DevOps](https://skillicons.dev/icons?i=docker,aws,terraform,prometheus,grafana&theme=dark)
+
+**Tools**
+
+![Tools](https://skillicons.dev/icons?i=git,idea,vscode,obsidian,md&theme=dark)
 
 ### Metrics
 

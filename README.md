@@ -14,7 +14,7 @@ Currently looking for SDE / AI Engineer roles — let's connect!
 
 ### Metrics
 
-![Metrics](/github-metrics.svg)
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
 
 ---
 
